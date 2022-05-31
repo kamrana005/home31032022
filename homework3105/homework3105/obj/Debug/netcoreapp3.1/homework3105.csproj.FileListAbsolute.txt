@@ -1,0 +1,14 @@
+C:\Users\afand\source\repos\homework3105\homework3105\obj\Debug\netcoreapp3.1\homework3105.csproj.AssemblyReference.cache
+C:\Users\afand\source\repos\homework3105\homework3105\obj\Debug\netcoreapp3.1\homework3105.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afand\source\repos\homework3105\homework3105\obj\Debug\netcoreapp3.1\homework3105.AssemblyInfoInputs.cache
+C:\Users\afand\source\repos\homework3105\homework3105\obj\Debug\netcoreapp3.1\homework3105.AssemblyInfo.cs
+C:\Users\afand\source\repos\homework3105\homework3105\obj\Debug\netcoreapp3.1\homework3105.csproj.CoreCompileInputs.cache
+C:\Users\afand\source\repos\homework3105\homework3105\bin\Debug\netcoreapp3.1\homework3105.exe
+C:\Users\afand\source\repos\homework3105\homework3105\bin\Debug\netcoreapp3.1\homework3105.deps.json
+C:\Users\afand\source\repos\homework3105\homework3105\bin\Debug\netcoreapp3.1\homework3105.runtimeconfig.json
+C:\Users\afand\source\repos\homework3105\homework3105\bin\Debug\netcoreapp3.1\homework3105.runtimeconfig.dev.json
+C:\Users\afand\source\repos\homework3105\homework3105\bin\Debug\netcoreapp3.1\homework3105.dll
+C:\Users\afand\source\repos\homework3105\homework3105\bin\Debug\netcoreapp3.1\homework3105.pdb
+C:\Users\afand\source\repos\homework3105\homework3105\obj\Debug\netcoreapp3.1\homework3105.dll
+C:\Users\afand\source\repos\homework3105\homework3105\obj\Debug\netcoreapp3.1\homework3105.pdb
+C:\Users\afand\source\repos\homework3105\homework3105\obj\Debug\netcoreapp3.1\homework3105.genruntimeconfig.cache
